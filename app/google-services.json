@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "220406415885",
+    "firebase_url": "https://kdldevelop.firebaseio.com",
+    "project_id": "kdldevelop",
+    "storage_bucket": "kdldevelop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220406415885:android:e898c68fa40f7eb5",
+        "android_client_info": {
+          "package_name": "com.android.kdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220406415885-545pmu2fn41u0kk2op2dm05830dcupmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChKNfxx4scfDoXyZSEMQtnVnnQuOb7Bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

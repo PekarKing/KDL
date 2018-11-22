@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KDL</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string name="pass">Пароль</string>
+    <string name="agreement">Согласие на обработку персональных данных и правил пользования приложением</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="register">Зарегистироваться</string>
+</resources>
