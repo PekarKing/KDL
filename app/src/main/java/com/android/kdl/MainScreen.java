@@ -88,8 +88,8 @@ public class MainScreen extends AppCompatActivity implements View.OnClickListene
 //                });
                 break;
             case R.id.toDialog:
-//                intent = new Intent(MainScreen.this, ChatActivity.class);
-//                startActivity(intent);
+                intent = new Intent(MainScreen.this, ChatActivity.class);
+                startActivity(intent);
                 Toast.makeText(this, "dialog", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.toOrder:
